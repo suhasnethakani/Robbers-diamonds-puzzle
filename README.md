@@ -20,5 +20,8 @@ We are looking for numbers `n` such that:
 - `n % 6 == 1`
 - `n % 7 == 0`
 
+---
+#CodingMakesOurLivesSometimesEasy🫡
+
 
 
